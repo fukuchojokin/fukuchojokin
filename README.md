@@ -1,4 +1,4 @@
-![surprise](/surprise.gif)
+![surprise](https://giphy.com/gifs/Ju7l5y9osyymQ/html5)
 
 ### konpeko, konpeko, konpeko!
 
