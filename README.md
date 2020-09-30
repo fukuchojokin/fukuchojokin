@@ -10,4 +10,4 @@ See my noobself made [website](https://ksh1t1z.github.io).<br/>
 - Know some Python, HTML, CSS and JavaScript.
 
 ![Okitasan](/Okita.png)<br/>
-&#9&#9 Umu! Umu!!!
+<pre>   Umu! Umu!!!</pre>
