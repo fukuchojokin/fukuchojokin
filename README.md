@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
-<h3 align="center">Student, BCA@TU</h3>
+<h3 align="center">Automation Analyst @ Rippey.Ai</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
